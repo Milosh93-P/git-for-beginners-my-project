@@ -1,4 +1,4 @@
 Welcome to my project!
 
-Author: Tomas Huber
+Author: Tomas Claudius Huber
 Twitter: @thomasclaudiush
