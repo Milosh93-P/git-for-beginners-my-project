@@ -1,3 +1,4 @@
-Welcomet to my project
+Welcome to my project!
 
 Author: Tomas
+Twitter: @thomasclaudiush
